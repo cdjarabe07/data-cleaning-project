@@ -28,5 +28,5 @@ A clean and structured dataset ready for analysis.
 2. Run all cells
 3. Check cleaned dataset in `/data/raw_data.csv`
 
-## PROJECT URL
-https://github.com/cdjarabe07/data-cleaning-project
+## PROJECT URL (roadmap.sh)
+https://roadmap.sh/projects/clean-csv
