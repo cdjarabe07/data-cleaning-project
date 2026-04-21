@@ -26,7 +26,7 @@ A clean and structured dataset ready for analysis.
 ## How to Run
 1. Open the notebook
 2. Run all cells
-3. Check cleaned dataset in `/data/raw_data.csv`
+3. Check cleaned dataset in `/data/cleaned_data.csv`
 
 ## PROJECT URL (roadmap.sh)
 https://roadmap.sh/projects/clean-csv
